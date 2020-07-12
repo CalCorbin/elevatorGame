@@ -1,0 +1,25 @@
+{
+  "name": "elevatorgame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CalCorbin/elevatorGame.git"
+  },
+  "author": "Cal Corbin",
+  "license": "ISC",
+  "bin": {
+    "callElevator": "./bin/index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/CalCorbin/elevatorGame/issues"
+  },
+  "homepage": "https://github.com/CalCorbin/elevatorGame#readme",
+  "dependencies": {
+    "enquirer": "^2.3.6"
+  }
+}
